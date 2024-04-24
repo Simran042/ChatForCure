@@ -15,3 +15,5 @@ The algorithm employs a Decision Tree Classifier to predict diseases based on in
 
 HOW TO RUN? 
 
+1. install all requirements from requirements.txt
+2. python chat_bot.py
