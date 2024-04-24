@@ -1,0 +1,72 @@
+Pharmacologist,Dr. Alice Johnson,4.8,10,Monday-Wednesday-Friday,9:00 AM - 1:00 PM
+Pharmacologist,Dr. Michael Smith,4.5,10,Tuesday-Thursday,10:00 AM - 3:00 PM
+Pharmacologist,Dr. Emily Chen,4.7,10,Monday-Thursday,2:00 PM - 6:00 PM
+Pharmacologist,Dr. David Brown,4.6,10,Wednesday-Friday,8:00 AM - 12:00 PM
+Pharmacologist,Dr. Sarah Lee,4.9,10,Monday-Tuesday-Friday,11:00 AM - 3:00 PM
+Pharmacologist,Dr. Kevin Nguyen,4.8,10,Tuesday-Wednesday-Thursday,9:00 AM - 2:00 PM
+Pharmacologist,Dr. Jessica Taylor,4.7,10,Monday-Friday,3:00 PM - 7:00 PM
+Pharmacologist,Dr. Christopher Wilson,4.5,10,Thursday-Friday,1:00 PM - 5:00 PM
+Pharmacologist,Dr. Amanda Martinez,4.9,10,Tuesday-Thursday,11:00 AM - 4:00 PM
+Pharmacologist,Dr. Daniel White,4.6,10,Monday-Wednesday,8:00 AM - 12:00 PM
+Infectious Disease Specialist,Dr. John Davis,4.9,10,Monday-Friday,8:00 AM - 12:00 PM
+Infectious Disease Specialist,Dr. Elizabeth Garcia,4.7,10,Tuesday-Thursday,10:00 AM - 2:00 PM
+Infectious Disease Specialist,Dr. James Clark,4.8,10,Monday-Wednesday,9:00 AM - 1:00 PM
+Infectious Disease Specialist,Dr. Rebecca Rodriguez,4.6,10,Thursday-Friday,10:00 AM - 3:00 PM
+Infectious Disease Specialist,Dr. Andrew Martinez,4.5,10,Monday-Wednesday,2:00 PM - 6:00 PM
+Infectious Disease Specialist,Dr. Kimberly Hall,4.9,10,Tuesday-Thursday,11:00 AM - 4:00 PM
+Infectious Disease Specialist,Dr. Matthew Nguyen,4.7,10,Monday-Friday,1:00 PM - 5:00 PM
+Infectious Disease Specialist,Dr. Stephanie Wilson,4.8,10,Wednesday-Friday,9:00 AM - 1:00 PM
+Infectious Disease Specialist,Dr. Benjamin Lewis,4.6,10,Monday-Wednesday,3:00 PM - 7:00 PM
+Infectious Disease Specialist,Dr. Lauren King,4.5,10,Thursday-Friday,11:00 AM - 3:00 PM
+Allergist/Immunologist,Dr. Samantha Thompson,4.8,10,Monday-Wednesday,9:00 AM - 1:00 PM
+Allergist/Immunologist,Dr. Josephine Baker,4.6,10,Tuesday-Thursday,10:00 AM - 3:00 PM
+Allergist/Immunologist,Dr. Christopher Hill,4.9,10,Monday-Wednesday-Friday,8:00 AM - 12:00 PM
+Allergist/Immunologist,Dr. Daniel Garcia,4.7,10,Thursday-Friday,11:00 AM - 3:00 PM
+Allergist/Immunologist,Dr. Sophia Brown,4.8,10,Monday-Tuesday-Thursday,1:00 PM - 5:00 PM
+Allergist/Immunologist,Dr. Jason Martinez,4.5,10,Tuesday-Wednesday,2:00 PM - 6:00 PM
+Allergist/Immunologist,Dr. Rachel Lee,4.7,10,Monday-Friday,10:00 AM - 2:00 PM
+Allergist/Immunologist,Dr. Jonathan Taylor,4.9,10,Wednesday-Thursday,9:00 AM - 1:00 PM
+Allergist/Immunologist,Dr. Madison Wilson,4.6,10,Monday-Wednesday-Friday,3:00 PM - 7:00 PM
+Allergist/Immunologist,Dr. Alexander Rodriguez,4.5,10,Thursday-Friday,2:00 PM - 6:00 PM
+Endocrinologist,Dr. Emily Adams,4.9,10,Monday-Thursday,8:00 AM - 12:00 PM
+Endocrinologist,Dr. Jacob Martinez,4.7,10,Tuesday-Thursday,10:00 AM - 2:00 PM
+Endocrinologist,Dr. Grace White,4.8,10,Monday-Wednesday,9:00 AM - 1:00 PM
+Endocrinologist,Dr. Ryan Garcia,4.6,10,Thursday-Friday,11:00 AM - 3:00 PM
+Endocrinologist,Dr. Natalie Johnson,4.5,10,Monday-Tuesday,1:00 PM - 5:00 PM
+Endocrinologist,Dr. Ethan Clark,4.9,10,Wednesday-Friday,2:00 PM - 6:00 PM
+Endocrinologist,Dr. Olivia Brown,4.7,10,Monday-Thursday,10:00 AM - 2:00 PM
+Endocrinologist,Dr. Samuel Lee,4.8,10,Tuesday-Wednesday,8:00 AM - 12:00 PM
+Endocrinologist,Dr. Hailey Smith,4.6,10,Thursday-Friday,9:00 AM - 1:00 PM
+Endocrinologist,Dr. Benjamin Davis,4.5,10,Monday-Friday,3:00 PM - 7:00 PM
+Dermatologist,Dr. Sophia Williams,4.8,10,Monday-Wednesday,9:00 AM - 1:00 PM
+Dermatologist,Dr. Tyler Martinez,4.6,10,Tuesday-Thursday,10:00 AM - 3:00 PM
+Dermatologist,Dr. Ava Garcia,4.9,10,Monday-Wednesday-Friday,8:00 AM - 12:00 PM
+Dermatologist,Dr. Matthew Brown,4.7,10,Thursday-Friday,11:00 AM - 3:00 PM
+Dermatologist,Dr. Olivia Taylor,4.8,10,Monday-Tuesday,1:00 PM - 5:00 PM
+Dermatologist,Dr. Jacob Rodriguez,4.5,10,Wednesday-Thursday,2:00 PM - 6:00 PM
+Dermatologist,Dr. Isabella Clark,4.7,10,Monday-Friday,10:00 AM - 2:00 PM
+Dermatologist,Dr. Ethan Wilson,4.9,10,Tuesday-Wednesday,8:00 AM - 12:00 PM
+Dermatologist,Dr. Abigail Thompson,4.6,10,Thursday-Friday,9:00 AM - 1:00 PM
+Dermatologist,Dr. Andrew Lee,4.5,10,Monday-Wednesday,3:00 PM - 7:00 PM
+Gastroenterologist,Dr. Matthew Garcia,4.8,10,Monday-Thursday,8:00 AM - 12:00 PM
+Gastroenterologist,Dr. Christopher Wilson,4.8,10,Tuesday-Wednesday,10:00 AM - 2:00 PM
+Gastroenterologist,Dr. William Taylor,4.8,10,Thursday-Friday,11:00 AM - 3:00 PM
+Gastroenterologist,Dr. Madison Lee,4.7,10,Monday-Tuesday,1:00 PM - 5:00 PM
+Gastroenterologist,Dr. Emily Clark,4.7,10,Wednesday-Thursday,2:00 PM - 6:00 PM
+Gastroenterologist,Dr. Natalie Johnson,4.6,10,Monday-Wednesday,8:00 AM - 12:00 PM
+Gastroenterologist,Dr. Benjamin Hill,4.45,11,Thursday-Friday,9:00 AM - 1:00 PM
+Gastroenterologist,Dr. Olivia Thompson,4.25,11,Monday-Tuesday,3:00 PM - 7:00 PM
+Gastroenterologist,Dr. Sophia Martinez,4.18,11,Wednesday-Friday,10:00 AM - 2:00 PM
+Gastroenterologist,Dr. Jacob Brown,3.73,12,Monday-Thursday,11:00 AM - 3:00 PM
+Hepatologist,Dr. Daniel Rodriguez,4.8,10,Monday-Wednesday,8:00 AM - 12:00 PM
+Hepatologist,Dr. Madison Lewis,4.6,10,Tuesday-Thursday,10:00 AM - 2:00 PM
+Hepatologist,Dr. Christopher Hill,4.9,10,Monday-Friday,9:00 AM - 1:00 PM
+Hepatologist,Dr. Sarah Baker,4.7,10,Wednesday-Thursday,11:00 AM - 3:00 PM
+Hepatologist,Dr. Nathan Johnson,4.8,10,Monday-Tuesday,1:00 PM - 5:00 PM
+Hepatologist,Dr. Emily Martinez,4.5,10,Thursday-Friday,2:00 PM - 6:00 PM
+Hepatologist,Dr. Michael Clark,4.7,10,Monday-Wednesday,8:00 AM - 12:00 PM
+Hepatologist,Dr. Olivia Taylor,4.9,10,Tuesday-Thursday,10:00 AM - 2:00 PM
+Hepatologist,Dr. Jacob Brown,4.6,10,Monday-Friday,9:00 AM - 1:00 PM
+Hepatologist,Dr. Isabella Anderson,4.5,10,Wednesday-Thursday,11:00 AM - 3:00 PM
+Rheumatologist,Dr. Ethan Wilson,4.9,10,Tuesday-Thursday,8:00 AM - 12:00 PM
+Rheumatologist,Dr. Sophia Williams,4.8,10,Monday-Wednesday,9:00 AM - 1:00 PM
