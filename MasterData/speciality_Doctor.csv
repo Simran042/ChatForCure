@@ -69,4 +69,92 @@ Hepatologist,Dr. Olivia Taylor,4.9,10,Tuesday-Thursday,10:00 AM - 2:00 PM
 Hepatologist,Dr. Jacob Brown,4.6,10,Monday-Friday,9:00 AM - 1:00 PM
 Hepatologist,Dr. Isabella Anderson,4.5,10,Wednesday-Thursday,11:00 AM - 3:00 PM
 Rheumatologist,Dr. Ethan Wilson,4.9,10,Tuesday-Thursday,8:00 AM - 12:00 PM
-Rheumatologist,Dr. Sophia Williams,4.8,10,Monday-Wednesday,9:00 AM - 1:00 PM
+Rheumatologist,Dr. Sophia Williams,4.73,11,Monday-Wednesday,9:00 AM - 1:00 PM
+Rheumatologist,Dr. Olivia Taylor,4.8,10,Thursday-Friday,11:00 AM - 3:00 PM
+Rheumatologist,Dr. Ava Garcia,4.73,11,Monday-Wednesday-Friday,10:00 AM - 2:00 PM
+Rheumatologist,Dr. Matthew Brown,4.7,10,Monday-Tuesday,1:00 PM - 5:00 PM
+Rheumatologist,Dr. Isabella Clark,4.7,10,Wednesday-Thursday,2:00 PM - 6:00 PM
+Rheumatologist,Dr. Tyler Martinez,4.6,10,Monday-Friday,9:00 AM - 1:00 PM
+Rheumatologist,Dr. Abigail Thompson,4.6,10,Tuesday-Wednesday,10:00 AM - 2:00 PM
+Rheumatologist,Dr. Jacob Rodriguez,4.5,10,Thursday-Friday,11:00 AM - 3:00 PM
+Rheumatologist,Dr. Andrew Lee,4.5,10,Monday-Wednesday,1:00 PM - 5:00 PM
+Neurologist,Dr. Ethan Martinez,4.9,10,Monday-Thursday,8:00 AM - 12:00 PM
+Neurologist,Dr. Olivia Clark,4.7,10,Tuesday-Friday,10:00 AM - 2:00 PM
+Neurologist,Dr. Jacob Anderson,4.8,10,Monday-Wednesday,9:00 AM - 1:00 PM
+Neurologist,Dr. Sophia Taylor,4.6,10,Thursday-Friday,11:00 AM - 3:00 PM
+Neurologist,Dr. William Johnson,4.5,10,Monday-Tuesday,1:00 PM - 5:00 PM
+Neurologist,Dr. Emily Davis,4.9,10,Wednesday-Thursday,2:00 PM - 6:00 PM
+Neurologist,Dr. Matthew Brown,4.7,10,Monday-Friday,8:00 AM - 12:00 PM
+Neurologist,Dr. Ava Lee,4.8,10,Tuesday-Wednesday,10:00 AM - 2:00 PM
+Neurologist,Dr. Benjamin Thompson,4.6,10,Thursday-Friday,11:00 AM - 3:00 PM
+Neurologist,Dr. Isabella Wilson,4.5,10,Monday-Wednesday,1:00 PM - 5:00 PM
+Cardiologist,Dr. Alexander Garcia,4.8,10,Monday-Thursday,8:00 AM - 12:00 PM
+Cardiologist,Dr. Emma Martinez,4.6,10,Tuesday-Thursday,10:00 AM - 2:00 PM
+Cardiologist,Dr. Christopher Hill,4.9,10,Monday-Wednesday-Friday,9:00 AM - 1:00 PM
+Cardiologist,Dr. Sarah Baker,4.7,10,Thursday-Friday,11:00 AM - 3:00 PM
+Cardiologist,Dr. Nathan Johnson,4.8,10,Monday-Tuesday,1:00 PM - 5:00 PM
+Cardiologist,Dr. Emily Martinez,4.5,10,Wednesday-Thursday,2:00 PM - 6:00 PM
+Cardiologist,Dr. Michael Clark,4.7,10,Monday-Friday,8:00 AM - 12:00 PM
+Cardiologist,Dr. Olivia Taylor,4.9,10,Tuesday-Wednesday,10:00 AM - 2:00 PM
+Cardiologist,Dr. Jacob Brown,4.6,10,Thursday-Friday,11:00 AM - 3:00 PM
+Cardiologist,Dr. Isabella Anderson,4.5,10,Monday-Wednesday,1:00 PM - 5:00 PM
+General Surgeon,Dr. Matthew Garcia,4.8,10,Monday-Thursday,8:00 AM - 12:00 PM
+General Surgeon,Dr. Sophia Martinez,4.6,10,Tuesday-Thursday,10:00 AM - 2:00 PM
+General Surgeon,Dr. Benjamin Hill,4.9,10,Monday-Wednesday,9:00 AM - 1:00 PM
+General Surgeon,Dr. Madison Lee,4.7,10,Thursday-Friday,11:00 AM - 3:00 PM
+General Surgeon,Dr. Christopher Wilson,4.8,10,Monday-Tuesday,1:00 PM - 5:00 PM
+General Surgeon,Dr. Olivia Thompson,4.6,10,Wednesday-Thursday,2:00 PM - 6:00 PM
+General Surgeon,Dr. Jacob Brown,4.9,10,Monday-Friday,8:00 AM - 12:00 PM
+General Surgeon,Dr. Emily Clark,4.7,10,Tuesday-Wednesday,10:00 AM - 2:00 PM
+General Surgeon,Dr. William Taylor,4.8,10,Thursday-Friday,11:00 AM - 3:00 PM
+General Surgeon,Dr. Natalie Johnson,4.6,10,Monday-Thursday,1:00 PM - 5:00 PM
+General Practitioner,Dr. Ethan Martinez,4.9,10,Monday-Wednesday,8:00 AM - 12:00 PM
+General Practitioner,Dr. Olivia Clark,4.7,10,Tuesday-Thursday,10:00 AM - 2:00 PM
+General Practitioner,Dr. Jacob Anderson,4.8,10,Monday-Friday,9:00 AM - 1:00 PM
+General Practitioner,Dr. Sophia Taylor,4.6,10,Thursday-Friday,11:00 AM - 3:00 PM
+General Practitioner,Dr. William Johnson,4.5,10,Monday-Tuesday,1:00 PM - 5:00 PM
+General Practitioner,Dr. Emily Davis,4.9,10,Wednesday-Thursday,2:00 PM - 6:00 PM
+General Practitioner,Dr. Matthew Brown,4.7,10,Monday-Wednesday,8:00 AM - 12:00 PM
+General Practitioner,Dr. Ava Lee,4.8,10,Thursday-Friday,10:00 AM - 2:00 PM
+General Practitioner,Dr. Benjamin Thompson,4.6,10,Monday-Tuesday,3:00 PM - 7:00 PM
+General Practitioner,Dr. Isabella Wilson,4.5,10,Wednesday-Thursday,11:00 AM - 3:00 PM
+Orthopedic Surgeon,Dr. Alexander Garcia,4.8,10,Monday-Thursday,8:00 AM - 12:00 PM
+Orthopedic Surgeon,Dr. Emma Martinez,4.6,10,Tuesday-Thursday,10:00 AM - 2:00 PM
+Orthopedic Surgeon,Dr. Christopher Hill,4.9,10,Monday-Wednesday-Friday,9:00 AM - 1:00 PM
+Orthopedic Surgeon,Dr. Sarah Baker,4.7,10,Thursday-Friday,11:00 AM - 3:00 PM
+Orthopedic Surgeon,Dr. Nathan Johnson,4.8,10,Monday-Tuesday,1:00 PM - 5:00 PM
+Orthopedic Surgeon,Dr. Emily Martinez,4.5,10,Wednesday-Thursday,2:00 PM - 6:00 PM
+Orthopedic Surgeon,Dr. Michael Clark,4.7,10,Monday-Friday,8:00 AM - 12:00 PM
+Orthopedic Surgeon,Dr. Olivia Taylor,4.9,10,Tuesday-Wednesday,10:00 AM - 2:00 PM
+Orthopedic Surgeon,Dr. Jacob Brown,4.6,10,Thursday-Friday,11:00 AM - 3:00 PM
+Orthopedic Surgeon,Dr. Isabella Anderson,4.5,10,Monday-Thursday,1:00 PM - 5:00 PM
+Urologist,Dr. Matthew Garcia,4.8,10,Monday-Wednesday,8:00 AM - 12:00 PM
+Urologist,Dr. Sophia Martinez,4.6,10,Tuesday-Thursday,10:00 AM - 2:00 PM
+Urologist,Dr. Benjamin Hill,4.9,10,Monday-Friday,9:00 AM - 1:00 PM
+Urologist,Dr. Madison Lee,4.7,10,Thursday-Friday,11:00 AM - 3:00 PM
+Urologist,Dr. Christopher Wilson,4.8,10,Monday-Tuesday,1:00 PM - 5:00 PM
+Urologist,Dr. Olivia Thompson,4.6,10,Wednesday-Thursday,2:00 PM - 6:00 PM
+Urologist,Dr. Jacob Brown,4.9,10,Monday-Friday,8:00 AM - 12:00 PM
+Urologist,Dr. Emily Clark,4.7,10,Tuesday-Wednesday,10:00 AM - 2:00 PM
+Urologist,Dr. William Taylor,4.8,10,Thursday-Friday,11:00 AM - 3:00 PM
+Urologist,Dr. Natalie Johnson,4.6,10,Monday-Thursday,1:00 PM - 5:00 PM
+Vascular Surgeon,Dr. Ethan Martinez,4.9,10,Monday-Wednesday,8:00 AM - 12:00 PM
+Vascular Surgeon,Dr. Olivia Clark,4.7,10,Tuesday-Thursday,10:00 AM - 2:00 PM
+Vascular Surgeon,Dr. Jacob Anderson,4.8,10,Monday-Friday,9:00 AM - 1:00 PM
+Vascular Surgeon,Dr. Sophia Taylor,4.6,10,Thursday-Friday,11:00 AM - 3:00 PM
+Vascular Surgeon,Dr. William Johnson,4.5,10,Monday-Tuesday,1:00 PM - 5:00 PM
+Vascular Surgeon,Dr. Emily Davis,4.9,10,Wednesday-Thursday,2:00 PM - 6:00 PM
+Vascular Surgeon,Dr. Matthew Brown,4.7,10,Monday-Wednesday,8:00 AM - 12:00 PM
+Vascular Surgeon,Dr. Ava Lee,4.8,10,Thursday-Friday,10:00 AM - 2:00 PM
+Vascular Surgeon,Dr. Benjamin Thompson,4.6,10,Monday-Tuesday,3:00 PM - 7:00 PM
+Vascular Surgeon,Dr. Isabella Wilson,4.5,10,Wednesday-Thursday,11:00 AM - 3:00 PM
+Pulmonologist,Dr. Alexander Garcia,4.8,10,Monday;Wednesday;Friday,09:00 AM - 12:00 PM
+Pulmonologist,Dr. Emma Martinez,4.6,10,Tuesday;Thursday,01:00 PM - 04:00 PM
+Pulmonologist,Dr. Christopher Hill,4.9,10,Monday;Friday,10:00 AM - 02:00 PM
+Pulmonologist,Dr. Sarah Baker,4.7,10,Wednesday,02:00 PM - 06:00 PM
+Pulmonologist,Dr. Nathan Johnson,4.8,10,Tuesday;Thursday,09:00 AM - 01:00 PM
+Pulmonologist,Dr. Emily Martinez,4.5,10,Monday;Friday,08:00 AM - 11:00 AM
+Pulmonologist,Dr. Michael Clark,4.7,10,Tuesday;Thursday,10:00 AM - 03:00 PM
+Pulmonologist,Dr. Olivia Taylor,4.9,10,Wednesday;Friday,11:00 AM - 03:00 PM
+Pulmonologist,Dr. Jacob Brown,4.6,10,Monday;Tuesday;Thursday,02:00 PM - 05:00 PM
+Pulmonologist,Dr. Isabella Anderson,4.5,10,Tuesday;Thursday,11:00 AM - 02:00 PM

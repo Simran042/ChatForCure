@@ -310,15 +310,30 @@ def decision_tree_to_code(tree, feature_names):
 
             else:
                 print("\nYou may have", present_disease[0], "or", second_prediction[0], "\n")
-                print(description_dictionary[present_disease[0]])
-                print("\n")
-                print(description_dictionary[second_prediction[0]])
+                if present_disease[0] in description_dictionary:
+                    print("Description:", description_dictionary[present_disease[0]])
+                else:
+                    print("Description not found for present disease:", present_disease[0])
 
-            if present_disease[0] == second_prediction[0]:
-                print("\n\nYou may want a doctor working as ", speciality_dictionary[present_disease[0]])
+                print("\n")
+                if second_prediction[0] in description_dictionary:
+                    print("Description:", description_dictionary[second_prediction[0]])
+                else:
+                    print("Description not found for present disease:", second_prediction[0])
+
+            if present_disease[0] in speciality_dictionary:
+                if second_prediction[0] in speciality_dictionary:
+                    if present_disease[0] == second_prediction[0]:
+                        print("\n\nYou may want a doctor working as ", speciality_dictionary.get(present_disease[0]))
+                    else:
+                        print("\n\nYou may want a doctor working as ", speciality_dictionary.get(present_disease[0]), "or", speciality_dictionary.get(second_prediction[0]))
+                else:
+                    print("\n\nYou may want a doctor working as ", speciality_dictionary.get(present_disease[0]))
             else:
-                print("\n\nYou may want a doctor working as ", speciality_dictionary[present_disease[0]], "or",
-                      speciality_dictionary[second_prediction[0]])
+                if second_prediction[0] in speciality_dictionary:
+                    print("\n\nYou may want a doctor working as ", speciality_dictionary.get(second_prediction[0]))
+                else:
+                    print("\n\nNeither present disease nor second prediction has a corresponding specialty in the dictionary.")
 
             if present_disease[0] == second_prediction[0]:
                 print("\n\nHere are the recommended", speciality_dictionary[present_disease[0]], "doctors:")
@@ -358,7 +373,7 @@ def decision_tree_to_code(tree, feature_names):
                         print("\nDoctor rating updated successfully!\n")
                     else:
                         print("Invalid rating. Please enter a number between 0 and 5.")
-            else:
+            elif present_disease[0] in speciality_dictionary:
                 print("\n\nHere are the recommended", speciality_dictionary[present_disease[0]], "doctors:")
                 sorted_present_doctors = sorted(doctors_dictionary[speciality_dictionary[present_disease[0]]],
                                                 key=lambda x: x[1], reverse=True)
@@ -395,7 +410,7 @@ def decision_tree_to_code(tree, feature_names):
                         print("\nDoctor rating updated successfully!")
                     else:
                         print("Invalid rating. Please enter a number between 0 and 5.")
-
+            if second_prediction[0] in speciality_dictionary:
                 print("\nHere are the recommended", speciality_dictionary[second_prediction[0]], "doctors:")
                 sorted_second_doctors = sorted(doctors_dictionary[speciality_dictionary[second_prediction[0]]],
                                                 key=lambda x: x[1], reverse=True)
@@ -432,11 +447,11 @@ def decision_tree_to_code(tree, feature_names):
                     else:
                         print("Invalid rating. Please enter a number between 0 and 5.")
 
-                    
-            precaution_list = precaution_dictionary[present_disease[0]]
-            print("\n\nTake the following measures:")
-            for i, j in enumerate(precaution_list):
-                print(i + 1, ")", j)
+            if(present_disease[0] in precaution_dictionary):        
+                precaution_list = precaution_dictionary[present_disease[0]]
+                print("\n\nTake the following measures:")
+                for i, j in enumerate(precaution_list):
+                    print(i + 1, ")", j)
 
     recurse(0, 1)
 
